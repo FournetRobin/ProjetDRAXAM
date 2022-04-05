@@ -1,9 +1,10 @@
 # ProjetDRAXAM
 <i>Projet Xamarin CDTL DAM</i>
-
+<br/><br/>
 <p align="center">
 <img width="100" src="https://images-na.ssl-images-amazon.com/images/I/61nuuPxUvaL.png">
-  </p>
+</p>
+<br/>
 
 ## Cahier des charge 
 
@@ -38,3 +39,5 @@ Voir la page [Issues](https://github.com/Alexti2d/ProjetDRAXAM/issues) pour une 
 
 ## Licence
 Distributed under the GNU General Public License v3.0. See [LICENSE]() for more information (cf. [Choose an open source license](https://choosealicense.com/)).
+
+<br/>
