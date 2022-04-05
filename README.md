@@ -24,9 +24,9 @@ La température doit être affichée avec un logo représentant le temps.
 Projet en C#/XAMARIN
 
 ### Installation
-1.Clonez le dépot git ```https://github.com/Alexti2d/ProjetDRAXAM```
+1. Clonez le dépot git ```https://github.com/Alexti2d/ProjetDRAXAM```
 
-2.Choisissez ouvrir un projet existant sur Visual Studio
+2. Choisissez ouvrir un projet existant sur Visual Studio
 
 ## Roadmap
 Voir la page [Issues](https://github.com/Alexti2d/ProjetDRAXAM/issues) pour une liste de toute les fonctionnalitées proposées et des problèmes connus ainsi que la page 
