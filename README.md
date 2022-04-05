@@ -32,7 +32,7 @@ Voir la page [Issues](https://github.com/Alexti2d/ProjetDRAXAM/issues) pour une 
 [Project](https://github.com/Alexti2d/ProjetDRAXAM/projects/1) pour la répartition des tâches dans l'équipe.
 
 ## Contributing
-Contributeurs : Dorian SERVE, Robin FOURNET, Alexandre MONIER.
+<b>Contributeurs</b> : Dorian SERVE, Robin FOURNET, Alexandre MONIER.
 
 <i>"Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated."</i>
 
