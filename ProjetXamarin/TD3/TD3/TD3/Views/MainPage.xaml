@@ -25,7 +25,9 @@
                     <RowDefinition Height="100" />
                     <RowDefinition Height="25" />
                     <RowDefinition Height="100" />
+                    <RowDefinition Height="100" />
                 </Grid.RowDefinitions>
+                <Image Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="4" Source="{Binding Icon}"></Image>
                 <ActivityIndicator IsVisible="{Binding IsBusy}" IsRunning="{Binding IsBusy}" Grid.Row="0" Grid.ColumnSpan="2"/>
                 <Entry Text="{Binding Querry}" Grid.ColumnSpan="2" Grid.Row="1" Completed="Entry_Completed"/>
                 <Label Text="{Binding ErrorMessage}" TextColor="Red" Grid.Row="2" Grid.ColumnSpan="2" HorizontalTextAlignment="Center"/>
@@ -60,6 +62,7 @@
                 <Label Grid.Row="12" Grid.Column="1" Text="Couché du soleil:"/>
                 <Rectangle Grid.Row="13" Grid.Column="1" Fill="CornFlowerBlue" Margin="2" RadiusX="10" RadiusY="10"/>
                 <Label Grid.Row="13" Grid.Column="1" FontSize="25" Text="{Binding Sunset}" Margin="15" TextColor="White"/>
+                
             </Grid>
         </ScrollView>
     </ContentPage.Content>

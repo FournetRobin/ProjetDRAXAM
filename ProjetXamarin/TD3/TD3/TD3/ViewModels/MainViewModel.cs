@@ -143,7 +143,7 @@ namespace TD3.ViewModels
                 Sunrise = new DateTime(1970, 1, 1, 0, 0, 0, 0).AddSeconds(weatherResponse.Sys.Sunrise + weatherResponse.Timezone).ToString("dd/MM/yyyy HH:mm");
                 Sunset = new DateTime(1970, 1, 1, 0, 0, 0, 0).AddSeconds(weatherResponse.Sys.Sunset + weatherResponse.Timezone).ToString("dd/MM/yyyy HH:mm");
                 Dt = new DateTime(1970, 1, 1, 0, 0, 0, 0).AddSeconds(weatherResponse.Dt + weatherResponse.Timezone).ToString("dd/MM/yyyy HH:mm");
-                IconIcon = $"{"https://openweathermap.org/img/wn/" + weatherResponse.Weather[0].Icon + ".png"}";
+                Icon = $"{"https://openweathermap.org/img/wn/" + weatherResponse.Weather[0].Icon + ".png"}";
             }
             else
             {
