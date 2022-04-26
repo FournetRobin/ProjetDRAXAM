@@ -1059,26 +1059,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fr112357\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\sd112358\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fr112357\\Documents\\GitHub\\ProjetDRAXAM\\ProjetXamarin\\TD3\\TD3\\TD3.iOS\\TD3.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\sd112358\\Desktop\\XAMARINTD\\ProjetDRAXAM-main\\ProjetXamarin\\TD3\\TD3\\TD3.iOS\\TD3.iOS.csproj",
       "projectName": "TD3.iOS",
-      "projectPath": "C:\\Users\\fr112357\\Documents\\GitHub\\ProjetDRAXAM\\ProjetXamarin\\TD3\\TD3\\TD3.iOS\\TD3.iOS.csproj",
-      "packagesPath": "C:\\Users\\fr112357\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fr112357\\Documents\\GitHub\\ProjetDRAXAM\\ProjetXamarin\\TD3\\TD3\\TD3.iOS\\obj\\",
+      "projectPath": "C:\\Users\\sd112358\\Desktop\\XAMARINTD\\ProjetDRAXAM-main\\ProjetXamarin\\TD3\\TD3\\TD3.iOS\\TD3.iOS.csproj",
+      "packagesPath": "C:\\Users\\sd112358\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sd112358\\Desktop\\XAMARINTD\\ProjetDRAXAM-main\\ProjetXamarin\\TD3\\TD3\\TD3.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\fr112357\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sd112358\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1090,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\fr112357\\Documents\\GitHub\\ProjetDRAXAM\\ProjetXamarin\\TD3\\TD3\\TD3\\TD3.csproj": {
-              "projectPath": "C:\\Users\\fr112357\\Documents\\GitHub\\ProjetDRAXAM\\ProjetXamarin\\TD3\\TD3\\TD3\\TD3.csproj"
+            "C:\\Users\\sd112358\\Desktop\\XAMARINTD\\ProjetDRAXAM-main\\ProjetXamarin\\TD3\\TD3\\TD3\\TD3.csproj": {
+              "projectPath": "C:\\Users\\sd112358\\Desktop\\XAMARINTD\\ProjetDRAXAM-main\\ProjetXamarin\\TD3\\TD3\\TD3\\TD3.csproj"
             }
           }
         }
