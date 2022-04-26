@@ -25,7 +25,7 @@ Une page paramètre sera disponible avec une option permettant de changer le th�
 Projet en C#/XAMARIN
 
 ### Installation
-1. Clonez le dépot git ```https://github.com/Alexti2d/ProjetDRAXAM```
+1. Clonez le dépot git ```https://github.com/FournetRobin/ProjetDRAXAM```
 
 2. Choisissez ouvrir un projet existant sur Visual Studio
 
