@@ -30,8 +30,8 @@ Projet en C#/XAMARIN
 2. Choisissez ouvrir un projet existant sur Visual Studio
 
 ## Roadmap
-Voir la page [Issues](https://github.com/Alexti2d/ProjetDRAXAM/issues) pour une liste de toute les fonctionnalitées proposées et des problèmes connus ainsi que la page 
-[Project](https://github.com/Alexti2d/ProjetDRAXAM/projects/1) pour la répartition des tâches dans l'équipe.
+Voir la page [Issues](https://github.com/FournetRobin/ProjetDRAXAM/issues) pour une liste de toute les fonctionnalitées proposées et des problèmes connus ainsi que la page 
+[Project](https://github.com/FournetRobin/ProjetDRAXAM/projects/1) pour la répartition des tâches dans l'équipe.
 
 ## Contributing
 <b>Contributeurs</b> : Dorian SERVE, Robin FOURNET, Alexandre MONIER.
